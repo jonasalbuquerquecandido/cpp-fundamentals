@@ -1,0 +1,8 @@
+basics - ex01, ex02 e ex03 - nao tive nenhuma dificuldade em realizados.
+
+controlflow 
+ex01 - fiquei com dificuldade de saber a fórmula de num % 2 == 0 estava colocando  %num / 2 == 0 travei e tive que olhar como fazer. travei
+ex02 - de iníco pensei que não fazia ideia, aí pensei um pouco sem olhar a resposta, e cheguei em uma solução depois, sem olhar, na hora que peguei o raciocínio andou sem parar. suave
+ex03 - eu travei ao declarar a variavel i no cout eu estava colocando [i] mas precisava colocar somente i para multiplicar, foi erro bobo, me senti bem ao ver que estava quase la sem ajuda, precisei de ajuda mas era somente o i mesmo. me senti bem ao completar essa, eu estava no caminho. basicamente fiz tudo sozinho, somente o i msm. dificil
+ex04 - fazer o ex anterior tornou esse bem fácil, fui fazendo de forma linear ai deu errado algo bobo, resolvi e deu tudo certo. 0 problemas. fácil
+
